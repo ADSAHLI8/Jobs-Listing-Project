@@ -13,6 +13,18 @@ This project uses JSON-Server for a mock backend.
 ```bash
 npm install
 ```
+```bash
+npm i react-router-dom
+```
+```bash
+npm i react-icons
+```
+```bash
+npm i react-spinners
+```
+```bash
+npm i react-toastify
+```
 
 ### Run JSON Server
 
